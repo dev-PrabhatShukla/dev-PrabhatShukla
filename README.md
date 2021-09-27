@@ -1,4 +1,3 @@
-![github_commits_logo](https://user-images.githubusercontent.com/83821207/134975906-c46a64f6-2853-432e-bb7e-3c660b520acb.png)
 - 👋 Hi, I’m @dev-PrabhatShukla (Prabhat Shukla)
 - 😊 I'm Data Science Enthusiast, working currently with various python libraries (like Numpy, Pandas, Matplotlib, Seaborn ) and various tools (like excel, tableau, SQL) for Data Analysis And Data Visualisation.
 - 👀 I’m interested in developing Web applications, Softwares, Desktop applications and project on Machine Learning .
@@ -7,6 +6,8 @@
 - 😊 Always ready for the challenges in the task and always believe in giving my 100% .
 - 📫 Reach me at pracoderma@gmail.com
 - 📫 Connect With Me On Linkedin Too : https://www.linkedin.com/in/prabhat-shukla-801a5b1b8/
+
+![github_commits_logo](https://user-images.githubusercontent.com/83821207/134975906-c46a64f6-2853-432e-bb7e-3c660b520acb.png)
 
 <!---
 dev-PrabhatShukla/dev-PrabhatShukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
