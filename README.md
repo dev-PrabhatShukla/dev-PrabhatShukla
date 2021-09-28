@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-PrabhatShukla (Prabhat Shukla)
 - 😊 I'm Data Science Enthusiast, working currently with various python libraries (like Numpy, Pandas, Matplotlib, Seaborn ) and various tools (like excel, tableau, SQL) for Data Analysis And Data Visualisation.
 - 👀 I’m interested in developing Web applications, Softwares, Desktop applications and project on Machine Learning .
-- 🌱 I’m aslo working on Python's most framework [Django] also On various frontend technologies(like HTML5, CSS3 , JavaScript, Bootstrap).
+- 🌱 I’m also working on Python's most framework [Django] also On various frontend technologies(like HTML5, CSS3 , JavaScript, Bootstrap).
 - 💞️ I’m looking to collaborate on Data Science And Web development projects (E-commerce site, Social media site, Or any type of website).
 - 😊 Always ready for the challenges in the task and always believe in giving my 100% .
 - 📫 Reach me at pracoderma@gmail.com
